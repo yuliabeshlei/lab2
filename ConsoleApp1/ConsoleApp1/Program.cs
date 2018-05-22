@@ -3,7 +3,9 @@
 namespace ConsoleApp1
 {
     class Program
-    {
+    { 
+private int a;
+
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
